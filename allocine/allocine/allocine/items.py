@@ -10,3 +10,8 @@ class FilmScraperItem(scrapy.Item):
     # define the fields for your item here like:
     title = scrapy.Field()
 
+
+class SerieScraperItem(scrapy.Item):
+    # define the fields for your item here like:
+    title = scrapy.Field()
+    nb_episodes = scrapy.Field()

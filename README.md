@@ -33,6 +33,3 @@ scrapy crawl <nom_du_spider>
 
 Les pull requests et issues sont les bienvenues pour toute proposition d’amélioration.
 
-## Licence
-
-Ce projet est sous licence MIT.
